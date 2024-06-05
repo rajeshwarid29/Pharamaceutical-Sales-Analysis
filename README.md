@@ -1,4 +1,4 @@
-# Pharamaceutical-Analysis
+# Pharamaceutical Sales Analysis
 
 **Objective:**
 
@@ -9,7 +9,7 @@ The objective of this project was to analyze pharmaceutical sales data to uncove
 Cleaned and prepared the dataset for analysis using Excel.
 Utilized advanced SQL querying techniques to extract relevant information from the dataset, including top-selling products, customer segmentation, and market trends.
 Employed Tableau's visualization capabilities to create dynamic dashboards and interactive visualizations for comprehensive data exploration.
-Analyzeed sales patterns by various metrics such as product class, country, and sub-channel to identify trends and opportunities within the pharmaceutical industry.
+Analyzed sales patterns by various metrics such as product class, country, and sub-channel to identify trends and opportunities within the pharmaceutical industry.
 
 **Results:**
 
