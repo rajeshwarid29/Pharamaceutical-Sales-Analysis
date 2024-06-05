@@ -6,10 +6,10 @@ The objective of this project was to analyze pharmaceutical sales data to uncove
 
 **Tasks:**
 
-Clean and prepare the dataset for analysis using Excel.
-Utilize advanced SQL querying techniques to extract relevant information from the dataset, including top-selling products, customer segmentation, and market trends.
-Employ Tableau's visualization capabilities to create dynamic dashboards and interactive visualizations for comprehensive data exploration.
-Analyze sales patterns by various metrics such as product class, country, and sub-channel to identify trends and opportunities within the pharmaceutical industry.
+Cleaned and prepared the dataset for analysis using Excel.
+Utilized advanced SQL querying techniques to extract relevant information from the dataset, including top-selling products, customer segmentation, and market trends.
+Employed Tableau's visualization capabilities to create dynamic dashboards and interactive visualizations for comprehensive data exploration.
+Analyzeed sales patterns by various metrics such as product class, country, and sub-channel to identify trends and opportunities within the pharmaceutical industry.
 
 **Results:**
 
