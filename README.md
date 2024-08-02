@@ -1,5 +1,7 @@
 # Pharamaceutical Sales Analysis
 
+![Pharmaceutical Sales Analysis Project](https://github.com/user-attachments/assets/e3a83895-aa3b-4b6f-b8f3-64f71f225a81)
+
 **Objective:**
 
 The objective of this project was to analyze pharmaceutical sales data to uncover actionable insights and trends within the industry. Leveraging SQL for data querying and Tableau for visualization, the aim was to identify key metrics such as top-selling products, customer segmentation, and market trends.
